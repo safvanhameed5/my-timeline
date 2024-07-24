@@ -5,7 +5,7 @@ import './Story.css';
 
 const Story = () => {
   const story = {
-    title: 'Hey',
+    title: 'Hello',
     content: `
       I used to like a girl in our college. You know her—maybe you know her more than anyone. We were really good companions. I don't want to use the word "friends." We used to talk a lot and call each other. I even went to church with her! Oh God, don't get me started on that. And then I was under the spell of love. You can guess the rest.
 
