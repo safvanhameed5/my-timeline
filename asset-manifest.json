@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/safvanhameed5/my-timeline.git/static/css/main.2d16ddba.css",
-    "main.js": "/safvanhameed5/my-timeline.git/static/js/main.b31eb0b0.js",
-    "static/js/453.f881bb72.chunk.js": "/safvanhameed5/my-timeline.git/static/js/453.f881bb72.chunk.js",
-    "index.html": "/safvanhameed5/my-timeline.git/index.html",
-    "main.2d16ddba.css.map": "/safvanhameed5/my-timeline.git/static/css/main.2d16ddba.css.map",
-    "main.b31eb0b0.js.map": "/safvanhameed5/my-timeline.git/static/js/main.b31eb0b0.js.map",
-    "453.f881bb72.chunk.js.map": "/safvanhameed5/my-timeline.git/static/js/453.f881bb72.chunk.js.map"
+    "main.css": "/my-timeline/static/css/main.2d16ddba.css",
+    "main.js": "/my-timeline/static/js/main.9531df22.js",
+    "static/js/453.f881bb72.chunk.js": "/my-timeline/static/js/453.f881bb72.chunk.js",
+    "index.html": "/my-timeline/index.html",
+    "main.2d16ddba.css.map": "/my-timeline/static/css/main.2d16ddba.css.map",
+    "main.9531df22.js.map": "/my-timeline/static/js/main.9531df22.js.map",
+    "453.f881bb72.chunk.js.map": "/my-timeline/static/js/453.f881bb72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d16ddba.css",
-    "static/js/main.b31eb0b0.js"
+    "static/js/main.9531df22.js"
   ]
 }
